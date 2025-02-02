@@ -43,7 +43,7 @@ Below are some screenshots showcasing the app's functionalities and user interfa
 **Cart Screen**
 **Wishlist Screen**
 
- <img src="assets/Frame 7002labor.png" alt="fashion feed">
+ <img src="Screenshot 2025-02-01 132102.png" alt="fashion feed">
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
