@@ -43,17 +43,7 @@ Below are some screenshots showcasing the app's functionalities and user interfa
 **Cart Screen**
 **Wishlist Screen**
 
-
-## Contributing
-Contributions to the Delivery App are welcome! If you'd like to contribute, please fork the repository and create a pull request. For significant changes, please open an issue first to discuss what you would like to change.
-
-Steps to Contribute:
-1. Fork the repository
-2. Create a new branch (git checkout -b feature/YourFeature)
-3. Make your changes
-4. Commit your changes (git commit -m 'Add some feature')
-5. Push to the branch (git push origin feature/YourFeature)
-6. Open a pull request
+ <img src="assets/Frame 7002labor.png" alt="fashion feed">
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
